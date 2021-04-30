@@ -1,6 +1,6 @@
 # Template Project Repo
 
-- Project repos should be named [TeamName]\_[semesterletter][twodigityear]
+- Project repos of CatsandDogs_s21 / BYU-I
 
 ## High-level folders
 
